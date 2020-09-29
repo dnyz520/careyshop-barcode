@@ -1,6 +1,6 @@
 <?php
 
-namespace careyshop;
+namespace CodeItNow;
 
 use think\Config;
 use think\Route;
