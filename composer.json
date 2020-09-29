@@ -23,7 +23,7 @@
     "extra": {
         "think": {
             "services": [
-                "careyshop\\CodeItNowService"
+                "careyshop\\BarCodeService"
             ]
         }
     }
